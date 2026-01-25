@@ -1,0 +1,501 @@
+genreid,genrename
+1,Drama
+2,Action
+3,Adventure
+4,Comedy
+5,Crime
+6,Documentary
+7,Fantasy
+8,Horror
+9,Musical
+10,Mystery
+11,Romance
+12,Sci-Fi
+13,Thriller
+14,War
+15,Western
+16,Animation
+17,Children
+18,Mystery|Drama
+19,Comedy|Romance
+20,Action|Adventure
+21,Action|Comedy
+22,Thriller|Horror
+23,Fantasy|Adventure
+24,Horror|Romance
+25,Comedy|Drama
+26,Sci-Fi|Fantasy
+27,Drama|Romance
+28,Animation|Comedy
+29,Crime|Drama
+30,Mystery|Thriller
+31,War|Drama
+32,Crime|Thriller
+33,Action|Sci-Fi
+34,Sci-Fi|Thriller
+35,Mystery|Comedy
+36,Musical|Romance
+37,Drama|Sci-Fi
+38,Action|Mystery
+39,Thriller|Action
+40,Fantasy|Sci-Fi
+41,Drama|Horror
+42,Comedy|Horror
+43,Action|Fantasy
+44,Adventure|Comedy
+45,Drama|Fantasy
+46,Animation|Action
+47,Comedy|Mystery
+48,Thriller|Sci-Fi
+49,Horror|Fantasy
+50,Adventure|Fantasy
+51,Romance|Thriller
+52,Drama|Thriller
+53,Crime|Action
+54,Sci-Fi|Mystery
+55,Action|Romance
+56,Comedy|Action
+57,Musical|Sci-Fi
+58,Adventure|Drama
+59,Documentary|Crime
+60,Drama|War
+61,Sci-Fi|War
+62,Children|Adventure
+63,Sci-Fi|Action
+64,Crime|Horror
+65,Fantasy|Comedy
+66,Mystery|Romance
+67,Action|Thriller
+68,Drama|Action
+69,Horror|Action
+70,War|Action
+71,Romance|Drama
+72,Sci-Fi|Animation
+73,Drama|Musical
+74,Horror|Sci-Fi
+75,Thriller|Crime
+76,Romance|Sci-Fi
+77,War|Sci-Fi
+78,Action|Mystery
+79,Mystery|Drama|Thriller
+80,Sci-Fi|Fantasy|Action
+81,Drama|Comedy
+82,Horror|Adventure
+83,Crime|Adventure
+84,Sci-Fi|Romance
+85,Animation|Romance
+86,Thriller|Fantasy
+87,Sci-Fi|Adventure
+88,Fantasy|Drama
+89,Thriller|War
+90,Mystery|Sci-Fi
+91,Comedy|Drama|Romance
+92,Adventure|Romance
+93,Crime|Fantasy
+94,Action|Fantasy|Sci-Fi
+95,Drama|Sci-Fi|War
+96,Comedy|Drama|Horror
+97,Sci-Fi|Horror
+98,Thriller|Drama
+99,Romance|Horror
+100,Action|Sci-Fi|Adventure
+101,Drama|Comedy|Action
+102,Comedy|Thriller|Romance
+103,Sci-Fi|Mystery|Action
+104,Horror|Adventure|Comedy
+105,Musical|Fantasy
+106,Drama|Mystery
+107,Action|Crime|Drama
+108,Comedy|Romance|Fantasy
+109,Thriller|Romance|Drama
+110,Sci-Fi|War|Action
+111,Drama|Fantasy|Mystery
+112,Action|War|Drama
+113,Sci-Fi|Fantasy|Romance
+114,Horror|Drama|Action
+115,Comedy|Thriller|Action
+116,Adventure|Sci-Fi
+117,Crime|Sci-Fi
+118,Action|Drama|Romance
+119,Thriller|Mystery
+120,Comedy|Fantasy
+121,Drama|Action|Sci-Fi
+122,Musical|Drama
+123,Sci-Fi|War|Romance
+124,Mystery|Horror|Drama
+125,Crime|Action|Drama
+126,Action|Mystery|Thriller
+127,Drama|Romance|Comedy
+128,Sci-Fi|Fantasy|War
+129,Action|Drama|War
+130,Thriller|Adventure
+131,Drama|Sci-Fi|Adventure
+132,Comedy|Action|Sci-Fi
+133,Romance|Fantasy|Sci-Fi
+134,Drama|War|Adventure
+135,Mystery|Action|Romance
+136,Thriller|Sci-Fi|Action
+137,Fantasy|Sci-Fi|Romance
+138,Drama|War|Sci-Fi
+139,Action|Drama|Crime
+140,Horror|Sci-Fi|Adventure
+141,Crime|Thriller|War
+142,Action|Fantasy|Mystery
+143,Drama|Comedy|Thriller
+144,Horror|Action|Sci-Fi
+145,Mystery|Sci-Fi|Thriller
+146,Adventure|Action|Drama
+147,Sci-Fi|Romance|Fantasy
+148,Comedy|Drama|Mystery
+149,Action|Adventure|Horror
+150,Mystery|Fantasy
+151,Sci-Fi|War|Horror
+152,Action|Horror|Sci-Fi
+153,Drama|War|Sci-Fi
+154,Crime|Fantasy|Drama
+155,Thriller|Drama|Fantasy
+156,Romance|Action|Drama
+157,Sci-Fi|Action|Fantasy
+158,Mystery|Thriller|Sci-Fi
+159,Adventure|Romance|Drama
+160,Action|Sci-Fi|Romance
+161,Fantasy|Drama|Romance
+162,Thriller|Romance|Sci-Fi
+163,Sci-Fi|Action|Crime
+164,Drama|Action|Mystery
+165,War|Sci-Fi|Action
+166,Adventure|Sci-Fi|Fantasy
+167,Comedy|Drama|Sci-Fi
+168,Mystery|Action|Sci-Fi
+169,Thriller|Sci-Fi|Fantasy
+170,Action|War|Sci-Fi
+171,Sci-Fi|Fantasy|Drama
+172,Crime|Action|Horror
+173,Comedy|Horror|Sci-Fi
+174,Thriller|Romance|Sci-Fi
+175,Horror|Fantasy|Drama
+176,Sci-Fi|Adventure|Romance
+177,Action|Sci-Fi|War
+178,Drama|Mystery|Adventure
+179,Comedy|Fantasy|Drama
+180,Horror|Drama|Thriller
+181,Crime|Sci-Fi|Fantasy
+182,Action|Adventure|Mystery
+183,Thriller|Drama|Action
+184,Sci-Fi|Fantasy|Horror
+185,Comedy|Action|Thriller
+186,Romance|Action|Sci-Fi
+187,Drama|War|Fantasy
+188,Action|Sci-Fi|Horror
+189,Crime|Horror|Drama
+190,Thriller|Sci-Fi|Romance
+191,Sci-Fi|Action|War
+192,Drama|Sci-Fi|Fantasy
+193,Horror|Romance|Action
+194,Adventure|Horror|Sci-Fi
+195,Mystery|Drama|Sci-Fi
+196,Action|Comedy|Fantasy
+197,Drama|Sci-Fi|Horror
+198,War|Adventure|Sci-Fi
+199,Thriller|Crime|Action
+200,Sci-Fi|Drama|Fantasy
+201,Comedy|Sci-Fi|Adventure
+202,Mystery|Action|Adventure
+203,Sci-Fi|Action|Drama
+204,Comedy|Horror|Romance
+205,Action|Fantasy|Adventure
+206,Thriller|Sci-Fi|Drama
+207,Action|Drama|Sci-Fi
+208,Romance|Fantasy|Adventure
+209,Sci-Fi|Romance|War
+210,Comedy|Sci-Fi|Horror
+211,Thriller|Romance|Horror
+212,Action|Horror|Adventure
+213,Drama|Sci-Fi|Action
+214,Adventure|Comedy|Horror
+215,Sci-Fi|Romance|Thriller
+216,Thriller|Fantasy|Sci-Fi
+217,Action|Fantasy|Sci-Fi
+218,Comedy|Sci-Fi|Romance
+219,Drama|War|Horror
+220,Mystery|Drama|Romance
+221,Action|War|Horror
+222,Thriller|Sci-Fi|War
+223,Comedy|Adventure|Sci-Fi
+224,Sci-Fi|Action|Horror
+225,Fantasy|Sci-Fi|Action
+226,Horror|Mystery|Action
+227,Action|Thriller|Drama
+228,Sci-Fi|Drama|Adventure
+229,Action|Sci-Fi|Fantasy|War
+230,Mystery|Sci-Fi|Action
+231,Thriller|Romance|Adventure
+232,Drama|Action|Fantasy
+233,Horror|Drama|Sci-Fi
+234,Romance|Sci-Fi|Thriller
+235,Comedy|Adventure|Drama
+236,Action|Comedy|Drama
+237,Thriller|Sci-Fi|Action|Romance
+238,Horror|Sci-Fi|Mystery
+239,Action|Sci-Fi|Thriller
+240,Drama|Sci-Fi|Crime
+241,Action|Fantasy|Horror|Romance
+242,Sci-Fi|War|Drama
+243,Comedy|Action|Drama|Sci-Fi
+244,Thriller|Drama|Romance|Horror
+245,War|Action|Drama
+246,Fantasy|Action|Adventure
+247,Action|Drama|War
+248,Sci-Fi|Fantasy|Action|Thriller
+249,Thriller|Sci-Fi|Drama|Romance
+250,Horror|Drama|Adventure
+251,Superhero
+252,Spy
+253,Martial Arts
+254,Heist
+255,Chase
+256,Revenge
+257,War
+258,Military Mission
+259,Dystopian Action
+260,Post-apocalyptic Survival
+261,Historical Adventure
+262,Treasure Hunt
+263,Exploration
+264,Western Adventure
+265,Underwater Adventure
+266,Time Travel Action
+267,Vigilante Justice
+268,Cyberpunk
+269,Espionage Thriller
+270,Gladiator Battles
+271,Disaster Rescue
+272,Urban Warfare
+273,Pirate Adventures
+274,Bounty Hunter
+275,Gang Wars
+276,Car Racing
+277,Samurai Showdown
+278,Jungle Survival
+279,Fantasy Quest
+280,Space Exploration
+281,Alien Invasion
+282,AI Uprising
+283,Space Opera
+284,Galactic Warfare
+285,Genetic Experimentation
+286,Robot Apocalypse
+287,Cybernetics
+288,Space Colonization
+289,Time Paradoxes
+290,Virtual Reality
+291,Alternate Realities
+292,Technological Dystopia
+293,Space Exploration Drama
+294,Artificial Intelligence
+295,Terraforming
+296,Sci-fi Horror
+297,Biopunk
+298,Futuristic Societies
+299,Space Western
+300,Planetary Survival
+301,Sword and Sorcery
+302,Mythology Retelling
+303,Magical Realism
+304,Epic Fantasy
+305,Urban Fantasy
+306,Dark Fantasy
+307,Fairy Tale Retelling
+308,Arthurian Legend
+309,Wizards and Witches
+310,Dragons
+311,Magical Creatures
+312,Hero's Journey
+313,Parallel Worlds
+314,Quest for a Relic
+315,Royal Intrigue
+316,Prophecy Fulfillment
+317,Elemental Powers
+318,Mystic Warriors
+319,Enchanted Forest
+320,Shape-shifting Creatures
+321,Haunted House
+322,Psychological Thriller
+323,Slasher
+324,Supernatural Possession
+325,Found Footage Horror
+326,Ghost Stories
+327,Demonic Cults
+328,Body Horror
+329,Zombie Apocalypse
+330,Vampire Horror
+331,Werewolves
+332,Witchcraft
+333,Serial Killers
+334,Lovecraftian Horror
+335,Creature Features
+336,Cosmic Horror
+337,Survival Horror
+338,Paranormal Activity
+339,Post-apocalyptic Horror
+340,Horror-Comedy
+341,Coming of Age
+342,Family Drama
+343,Historical Drama
+344,Social Justice
+345,Courtroom Drama
+346,Sports Drama
+347,Romantic Drama
+348,Political Intrigue
+349,Crime Drama
+350,Medical Drama
+351,Workplace Struggles
+352,Artistic Pursuit
+353,Music Biopic
+354,Tragedy
+355,Survival Drama
+356,War and Peace
+357,Intergenerational Conflict
+358,Mental Health
+359,Cultural Clash
+360,Loss and Grief
+361,Rom-Com
+362,Slapstick
+363,Satire
+364,Dark Comedy
+365,Parody
+366,Workplace Comedy
+367,Buddy Comedy
+368,Teen Comedy
+369,Family Comedy
+370,Fish-Out-of-Water
+371,Mockumentary
+372,Road Trip
+373,Crime Comedy
+374,Stand-up Specials
+375,Political Satire
+376,Holiday Comedy
+377,Coming of Age Comedy
+378,College Life
+379,Heist Comedy
+380,Sci-fi Comedy
+381,Forbidden Love
+382,Love Triangle
+383,Period Romance
+384,LGBTQ+ Love Story
+385,Enemies to Lovers
+386,Friends to Lovers
+387,Workplace Romance
+388,Second Chances
+389,Love Across Time
+390,Tragic Romance
+391,Opposites Attract
+392,Holiday Romance
+393,Royal Love Story
+394,Long-Distance Love
+395,Fantasy Romance
+396,Cross-Cultural Romance
+397,Age Gap Romance
+398,Secret Admirer
+399,High School Sweethearts
+400,Love and War
+401,Psychological Thriller
+402,Crime Thriller
+403,Political Thriller
+404,Espionage Thriller
+405,Survival Thriller
+406,Mystery Thriller
+407,Legal Thriller
+408,Conspiracy
+409,Hostage Situation
+410,Cat-and-Mouse Chase
+411,Revenge Thriller
+412,Supernatural Thriller
+413,Whodunit
+414,Tech Thriller
+415,Paranormal Suspense
+416,Undercover Agents
+417,Stalker Stories
+418,Bank Heist Gone Wrong
+419,Kidnap and Escape
+420,Dark Web
+421,Historical Biopic
+422,Period War
+423,Ancient Civilizations
+424,Medieval Kingdoms
+425,Revolution Dramas
+426,Renaissance Era
+427,World War I
+428,World War II
+429,Cold War
+430,Industrial Revolution
+431,Ancient Rome
+432,Ancient Egypt
+433,Colonial America
+434,Victorian London
+435,Gold Rush
+436,Historical Sports
+437,Great Depression
+438,1960s Counterculture
+439,Feudal Japan
+440,Exploration Age
+441,Animated Musicals
+442,Superhero Animation
+443,Fantasy Animation
+444,Sci-fi Animation
+445,Stop-motion
+446,Anime Adventures
+447,Animated Family Films
+448,Animated Fairy Tales
+449,Pixar-style Comedy
+450,Environmental Message
+451,Broadway Adaptations
+452,Jukebox Musicals
+453,Biographical Musicals
+454,Fantasy Musicals
+455,Dance-centric Musicals
+456,Historical Musicals
+457,Rock Operas
+458,Teen Pop Musicals
+459,Romantic Musicals
+460,Animated Musicals
+461,Mafia Drama
+462,Serial Killer Stories
+463,Bank Heists
+464,Police Procedural
+465,Corrupt Systems
+466,Courtroom Battles
+467,Gangster Chronicles
+468,Drug Cartels
+469,Forensic Investigations
+470,Vigilante Justice
+471,Underdog Stories
+472,Boxing
+473,Basketball
+474,Soccer
+475,Baseball
+476,Motorsports
+477,Horse Racing
+478,Extreme Sports
+479,Olympic Aspirations
+480,Coaching Legacy
+481,True Crime
+482,Nature Documentaries
+483,Historical Figures
+484,Music Legends
+485,Political Leaders
+486,Social Movements
+487,Scientific Discovery
+488,Adventure Travel
+489,Sports Icons
+490,Artist Biographies
+491,Cyberpunk Fantasy
+492,Telepathic Societies
+493,Space Pirates
+494,Alien Mysticism
+495,Futuristic Kingdoms
+496,Steampunk Superheroes
+497,Elemental Sci-fi
+498,Mythical Creatures in Space
+499,Sci-fi Epics
+500,Magic vs. Technology
